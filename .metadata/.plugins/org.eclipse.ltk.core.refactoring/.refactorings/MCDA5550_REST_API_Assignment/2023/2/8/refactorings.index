@@ -1,0 +1,16 @@
+1676923223658	Rename resource 'model'
+1676923236179	Move 'HotelRepository.java' to 'data'
+1676923865506	Encapsulate field 'hotelRepository'
+1676924753679	Rename resource 'HotelController.java'
+1676924870702	Delete element
+1676925750391	Rename resource 'AppStartEvent.java'
+1676925968489	Rename resource 'AppStartupEvent.java'
+1676925993505	Delete element
+1676926011103	Rename resource 'ttt.java'
+1676926099144	Rename resource 'AppStartEvent.java'
+1676928627115	Rename resource 'controller'
+1676928637942	Rename resource 'HotelController.java_'
+1676928713678	Delete element
+1676929197771	Rename resource 'WebService'
+1676930598601	Rename resource 'AppStartupEvent.java'
+1676933527811	Delete element

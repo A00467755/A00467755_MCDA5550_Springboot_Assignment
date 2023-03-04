@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="jakarta.persistence.Table"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
+    <fullyQualifiedTypeName name="com.example.demo.data.HotelRepository"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.context.event.ApplicationReadyEvent"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+    <fullyQualifiedTypeName name="org.springframework.context.ApplicationListener"/>
+    <fullyQualifiedTypeName name="com.example.demo.data.Hotel"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.ComponentScan"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.SequenceGenerator"/>
+</qualifiedTypeNameHistroy>
